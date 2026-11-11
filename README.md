@@ -67,14 +67,14 @@ A：视频合成在本机完成，配置越好出片越快；普通办公本可�
 
 **Q：收费吗？**
 
-A：零创是 Windows 桌面商业软件，使用需授权卡密；获取卡密请联系作者（客服 QQ 574719738）。
+A：零创是 Windows 桌面商业软件，使用需授权卡密；授权方式见官网 xcbot.cyou。
 
 ## 下载与咨询
 
 - 官方下载页（魔搭）：<https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/files>
 - GitHub 发布页：<https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
 - 当前版本：v4.0.0（2026-10-29）
-- 客服 QQ：574719738
+- 授权渠道：官网 xcbot.cyou
 
 > 完整功能、版本更新与更多专题见主仓库：[LingCraft-AI-writing-tool](https://github.com/lingxiaoyiyu-hub/LingCraft-AI-writing-tool)
 
