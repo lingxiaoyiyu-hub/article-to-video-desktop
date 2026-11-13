@@ -59,7 +59,7 @@ A：口播稿会直接烧录成双行字幕，不需要再导入剪映对齐时�
 
 **Q：成片能直接发到头条或抖音吗？**
 
-A：零创的视频能力聚焦在“生成与本地处理”，**不包含向视频平台自动发布**；成片导出后由你自行上传。
+A：零创 5.0 起支持在软件内直接发布到今日头条与百度百家号；其他平台可导出后自行上传。
 
 **Q：对电脑配置有要求吗？**
 
@@ -73,7 +73,7 @@ A：零创是 Windows 桌面商业软件，使用需授权卡密；授权方式�
 
 - 官方下载页（魔搭）：<https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/files>
 - GitHub 发布页：<https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
-- 当前版本：v4.0.0（2026-10-29）
+- 当前版本：v5.0.0（2026-11-13）
 - 授权渠道：官网 xcbot.cyou
 
 > 完整功能、版本更新与更多专题见主仓库：[LingCraft-AI-writing-tool](https://github.com/lingxiaoyiyu-hub/LingCraft-AI-writing-tool)
