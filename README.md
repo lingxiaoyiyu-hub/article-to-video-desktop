@@ -73,7 +73,7 @@ A：零创是 Windows 桌面商业软件，使用需授权卡密；授权方式�
 
 - 官方下载页（魔搭）：<https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/files>
 - GitHub 发布页：<https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
-- 当前版本：v5.0.5（2026-11-18）
+- 当前版本：v6.0.0（2026-11-23）
 - 授权渠道：官网 xcbot.cyou
 
 > 完整功能、版本更新与更多专题见主仓库：[LingCraft-AI-writing-tool](https://github.com/lingxiaoyiyu-hub/LingCraft-AI-writing-tool)
